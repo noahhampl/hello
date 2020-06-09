@@ -4,8 +4,10 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
+  printf("Noah Hampl\n");
   printf("Biochemistry\n");
+  printf("Travis Tran\n");
+  printf("Computer Science\n");
 
   return 0;
 }
