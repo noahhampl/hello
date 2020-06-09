@@ -12,6 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Hello World!\n");
+  printf("Biochemistry\n");
 
   return 0;
 }
